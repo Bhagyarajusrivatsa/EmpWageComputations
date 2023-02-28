@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             //Console.WriteLine("Welcome to EmpWageComputations");
-            EmpPayRoll.Monthly_Wage();
+            EmpPayRoll.MonthlyWage_Criteria();
         }
     }
 }
