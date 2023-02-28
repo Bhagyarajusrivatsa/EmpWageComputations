@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to EmpWageComputations");
+            //Console.WriteLine("Welcome to EmpWageComputations");
+            EmpPayRoll.Employee_Attendence();
         }
     }
 }
